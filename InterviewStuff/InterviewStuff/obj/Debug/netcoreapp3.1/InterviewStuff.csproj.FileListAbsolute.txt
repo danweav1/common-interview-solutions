@@ -1,0 +1,13 @@
+D:\InterviewQuestionsCSharp\InterviewStuff\InterviewStuff\bin\Debug\netcoreapp3.1\InterviewStuff.exe
+D:\InterviewQuestionsCSharp\InterviewStuff\InterviewStuff\bin\Debug\netcoreapp3.1\InterviewStuff.deps.json
+D:\InterviewQuestionsCSharp\InterviewStuff\InterviewStuff\bin\Debug\netcoreapp3.1\InterviewStuff.runtimeconfig.json
+D:\InterviewQuestionsCSharp\InterviewStuff\InterviewStuff\bin\Debug\netcoreapp3.1\InterviewStuff.runtimeconfig.dev.json
+D:\InterviewQuestionsCSharp\InterviewStuff\InterviewStuff\bin\Debug\netcoreapp3.1\InterviewStuff.dll
+D:\InterviewQuestionsCSharp\InterviewStuff\InterviewStuff\bin\Debug\netcoreapp3.1\InterviewStuff.pdb
+D:\InterviewQuestionsCSharp\InterviewStuff\InterviewStuff\obj\Debug\netcoreapp3.1\InterviewStuff.csprojAssemblyReference.cache
+D:\InterviewQuestionsCSharp\InterviewStuff\InterviewStuff\obj\Debug\netcoreapp3.1\InterviewStuff.AssemblyInfoInputs.cache
+D:\InterviewQuestionsCSharp\InterviewStuff\InterviewStuff\obj\Debug\netcoreapp3.1\InterviewStuff.AssemblyInfo.cs
+D:\InterviewQuestionsCSharp\InterviewStuff\InterviewStuff\obj\Debug\netcoreapp3.1\InterviewStuff.dll
+D:\InterviewQuestionsCSharp\InterviewStuff\InterviewStuff\obj\Debug\netcoreapp3.1\InterviewStuff.pdb
+D:\InterviewQuestionsCSharp\InterviewStuff\InterviewStuff\obj\Debug\netcoreapp3.1\InterviewStuff.csproj.CoreCompileInputs.cache
+D:\InterviewQuestionsCSharp\InterviewStuff\InterviewStuff\obj\Debug\netcoreapp3.1\InterviewStuff.genruntimeconfig.cache
