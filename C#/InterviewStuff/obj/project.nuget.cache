@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "65SQkZ3LecfjP880uk3KRGdoN+pranwNLiZRlocFKhE1hVPR6B8VlCYyU3qZNwwRGGGsAmL2TpG6r5wNeaso/A==",
+  "dgSpecHash": "MpAZopqeXiRKVEeblS507T09EmX6LaxCdavDjdncFdqbqnpvRpPHIiZ3XKpcTQkASs59gZu3r8JdLc1/IF5cKw==",
   "success": true,
-  "projectFilePath": "D:\\InterviewQuestionsCSharp\\InterviewStuff\\InterviewStuff\\InterviewStuff.csproj",
+  "projectFilePath": "D:\\InterviewQuestions\\C#\\InterviewStuff\\InterviewStuff.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

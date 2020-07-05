@@ -11,3 +11,16 @@ D:\InterviewQuestionsCSharp\InterviewStuff\InterviewStuff\obj\Debug\netcoreapp3.
 D:\InterviewQuestionsCSharp\InterviewStuff\InterviewStuff\obj\Debug\netcoreapp3.1\InterviewStuff.pdb
 D:\InterviewQuestionsCSharp\InterviewStuff\InterviewStuff\obj\Debug\netcoreapp3.1\InterviewStuff.csproj.CoreCompileInputs.cache
 D:\InterviewQuestionsCSharp\InterviewStuff\InterviewStuff\obj\Debug\netcoreapp3.1\InterviewStuff.genruntimeconfig.cache
+D:\InterviewQuestions\C#\InterviewStuff\bin\Debug\netcoreapp3.1\InterviewStuff.exe
+D:\InterviewQuestions\C#\InterviewStuff\bin\Debug\netcoreapp3.1\InterviewStuff.deps.json
+D:\InterviewQuestions\C#\InterviewStuff\bin\Debug\netcoreapp3.1\InterviewStuff.runtimeconfig.json
+D:\InterviewQuestions\C#\InterviewStuff\bin\Debug\netcoreapp3.1\InterviewStuff.runtimeconfig.dev.json
+D:\InterviewQuestions\C#\InterviewStuff\bin\Debug\netcoreapp3.1\InterviewStuff.dll
+D:\InterviewQuestions\C#\InterviewStuff\bin\Debug\netcoreapp3.1\InterviewStuff.pdb
+D:\InterviewQuestions\C#\InterviewStuff\obj\Debug\netcoreapp3.1\InterviewStuff.csprojAssemblyReference.cache
+D:\InterviewQuestions\C#\InterviewStuff\obj\Debug\netcoreapp3.1\InterviewStuff.AssemblyInfoInputs.cache
+D:\InterviewQuestions\C#\InterviewStuff\obj\Debug\netcoreapp3.1\InterviewStuff.AssemblyInfo.cs
+D:\InterviewQuestions\C#\InterviewStuff\obj\Debug\netcoreapp3.1\InterviewStuff.csproj.CoreCompileInputs.cache
+D:\InterviewQuestions\C#\InterviewStuff\obj\Debug\netcoreapp3.1\InterviewStuff.dll
+D:\InterviewQuestions\C#\InterviewStuff\obj\Debug\netcoreapp3.1\InterviewStuff.pdb
+D:\InterviewQuestions\C#\InterviewStuff\obj\Debug\netcoreapp3.1\InterviewStuff.genruntimeconfig.cache

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\InterviewQuestionsCSharp\\InterviewStuff\\InterviewStuff\\InterviewStuff.csproj",
+      "projectUniqueName": "D:\\InterviewQuestions\\C#\\InterviewStuff\\InterviewStuff.csproj",
       "projectName": "InterviewStuff",
-      "projectPath": "D:\\InterviewQuestionsCSharp\\InterviewStuff\\InterviewStuff\\InterviewStuff.csproj",
+      "projectPath": "D:\\InterviewQuestions\\C#\\InterviewStuff\\InterviewStuff.csproj",
       "packagesPath": "C:\\Users\\danwe\\.nuget\\packages\\",
-      "outputPath": "D:\\InterviewQuestionsCSharp\\InterviewStuff\\InterviewStuff\\obj\\",
+      "outputPath": "D:\\InterviewQuestions\\C#\\InterviewStuff\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
