@@ -11,6 +11,23 @@
 // 4       5
 // Answer: [1, 3, 2]
 
-function levelWidth(root) {}
+function levelWidth(root) {
+  const arr = [root, 's'];
+  const counters = [0]; // will hold the widths along our tree
+
+  while (arr.length > 1) {
+    const node = arr.shift();
+
+    if (node === 's') {
+      counters.push(0);
+      arr.push('s');
+    } else {
+      arr.push(...node.children);
+      counters[counters.length - 1]++; // find very last element in counters and increment by one.
+    }
+  }
+
+  return counters;
+}
 
 module.exports = levelWidth;
