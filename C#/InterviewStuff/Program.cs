@@ -508,7 +508,23 @@ namespace InterviewStuff
             node.Left.Left.Right = new BinarySearchTreeNode(999);
             Console.WriteLine(ValidateBST.Validate2(node)); // false */
 
+            // Events - THESE work differently in C# so skipping this section.
 
+            /* // Sorting
+            List<int> list = new List<int>() { 100, -40, 500, -124, 0, 21, 7 };
+            Console.WriteLine();
+            Sorting.BubbleSort(list).ForEach(l => Console.Write($"{l}, ")); // -124, -40, 0, 7, 21, 100, 500
+
+            Console.WriteLine();
+            Sorting.SelectionSort(list).ForEach(l => Console.Write($"{l}, ")); // -124, -40, 0, 7, 21, 100, 500
+
+            List<int> left = new List<int>() { 1, 10 };
+            List<int> right = new List<int>() { 2, 8, 12 };
+            Console.WriteLine();
+            Sorting.Merge(left, right).ForEach(l => Console.Write($"{l}, ")); // 1, 2, 8, 10, 12
+
+            Console.WriteLine();
+            Sorting.MergeSort(list).ForEach(l => Console.Write($"{l}, ")); // -124, -40, 0, 7, 21, 100, 500 */
         }
     }
 }
